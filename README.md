@@ -98,11 +98,3 @@ MIT License — See the [LICENSE](LICENSE) file for more details.
 ---
 
 Thanks for checking out Serendipity, your ultimate e-commerce playground. Happy shopping and may your cart always be full! 🛍️✨
-```
-
-### Highlights:
-- **Fun language and emojis**: Keeps things light and playful.
-- **Funny sections**: "Setup Ritual," "Unleash the Magic," "Shoutouts to the Coolest Tools."
-- **Quirky descriptions**: Adds personality and excitement to typical sections like Tech Stack, Features, and Installation.
-
-This `README.md` should add some fun vibes to your project while keeping the essentials clear for anyone using or contributing to your repo!
